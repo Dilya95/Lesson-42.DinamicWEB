@@ -27,6 +27,28 @@ vagrant стэнд с проброшенными на локалхост пор�
     ├── README.md
     └── Vagrantfile
 
+.
+├── project
+│   ├── docker-compose.yml
+│   ├── nginx-conf
+│   │   └── nginx.conf
+│   ├── node
+│   │   └── test.js
+│   ├── python
+│   │   ├── Dockerfile
+│   │   ├── manage.py
+│   │   ├── mysite
+│   │   │   ├── asgi.py
+│   │   │   ├── __init__.py
+│   │   │   ├── settings.py
+│   │   │   ├── urls.py
+│   │   │   └── wsgi.py
+│   │   └── requirements.txt
+│   ├── README.md
+│   └── screens
+│       ├── 8081.png
+│       ├── 8082.png
+│       └── 8083.png
 
 
 
