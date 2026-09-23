@@ -100,8 +100,11 @@ dilyam@MacBook-Pro-Dilya-2 project % docker compose up -d
  ✔ Container app               Created                                                                                                                                                                               0.1s
  ✔ Container wordpress         Created                                                                                                                                                                               0.1s
  ✔ Container nginx             Created                                                                                                                                                                               0.0s
+```
 
- 
+
+### Проверила состояние контейнеров
+```
 dilyam@MacBook-Pro-Dilya-2 project % docker compose ps
 NAME        IMAGE                        COMMAND                  SERVICE     CREATED          STATUS          PORTS
 app         project-app                  "gunicorn --workers=…"   app         11 seconds ago   Up 10 seconds   
