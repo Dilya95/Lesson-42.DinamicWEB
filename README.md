@@ -26,6 +26,7 @@ vagrant стэнд с проброшенными на локалхост пор�
 ## Структура
     ├── README.md
     └── project
+        ├── .env
         ├── docker-compose.yml
         ├── nginx-conf
         │   └── nginx.conf
