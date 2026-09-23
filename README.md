@@ -58,7 +58,7 @@ vagrant стэнд с проброшенными на локалхост пор�
 ```
 
 
-### 
+### Разворачивание контейнеров
 ```
 dilyam@MacBook-Pro-Dilya-2 project % docker compose build --no-cache
 [+] Building 15.4s (14/14) FINISHED                                                                                                                                                                                      
